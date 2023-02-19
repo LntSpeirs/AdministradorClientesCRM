@@ -31,7 +31,7 @@ function Layout() {
                         Nuevo Cliente
                     </Link>
 
-                    //Forma de hacerlo con navlink
+                   {/*  Forma de hacerlo con navlink */}
                     {/* <NavLink
                         className={({ isActive }) =>
                             isActive
